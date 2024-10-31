@@ -1,0 +1,54 @@
+.tw-bs input[type=checkbox] {
+	width:15px !important;
+	height:15px !important;
+}
+.tw-bs input[type=radio]{
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 10px !important;
+}
+.image_preview{
+		
+	overflow: hidden;
+}
+.image_preview img{
+	width:150px;
+	float:left;
+	margin-right:10px;
+}
+.editor_container{
+	overflow:hidden;
+	max-width:500px;
+}
+.editor_container .column-100{
+	width:100%;
+	float:left;
+	padding:0px 20px;
+}
+.editor_container .column-50{
+	width:50%;
+	float:left;
+	padding:0px 20px;
+}
+.editor_container .column-33{
+	width:33%;
+	float:left;
+	padding:0px 20px;
+}
+.editor_container .column-25{
+	width:25%;
+	float:left;
+	padding:0px 20px;
+}
+.block_explainer{
+	position:absolute;
+	lefT:0px;
+	top:0px;
+	font-size:11px;
+	font-style:italic;
+	color:#ccc;
+	padding: 1px 5px;
+}
+.layout_editor a:hover{
+	text-decoration:none;
+}
